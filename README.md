@@ -30,6 +30,7 @@ Pero es apto para todo público.
 Esperamos que la aplicación les sea útil :hugs:
 
 otra explicacion de cual es la funcion que tiene el codigo 😉:)
+
 Objetos morseCode y reverseMorseCode
 
 - morseCode: Este objeto contiene las equivalencias entre caracteres alfabéticos y numéricos y sus respectivos códigos Morse.
